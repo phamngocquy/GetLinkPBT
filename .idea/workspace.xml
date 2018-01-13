@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7481257d-96df-4905-affa-9397d8036588" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/../GetLinkPhimBH/out/" />
+    <ignored path="$PROJECT_DIR$/../GetLinkPhimBH/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="854">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsoupGetData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/service/JsoupGetData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#400#1" expanded="true" />
+                <element signature="e#644#652#0" expanded="true" />
+                <element signature="e#1103#1111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/test/java/GetData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="112" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="112" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/templates/pages/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;file&quot;:&quot;U2FsdGVkX1\/4B3Rox3QNqiYTdZ8RxUxb+7rAP1EtWUCewwINcYfLvDtIpHQlCL45KbsxPbI1GedLAdkrwpRm7YdIGhXG4Wxj55TSkWTL2INPpgUVCVz4qKTa4AxcRoU59MqrtB7iOsbJHkILVu0CGYxHabVrtMbtMzIVZZ+WWgk8yJ9eGc\/n44kLjEgulGi\/prxTgEN8TlvQgORCGJuYVQ4y2R2F3egINMUdaJg7Kjo6qVruJ98Xh3SnfbANeNE60OrcZcYQAFiKAVmaY1\/OeM2oj824lPxeFnumVZjR4rA=&quot;</find>
+      <find>string</find>
+      <find>file</find>
+      <find>file&quot;</find>
+      <find>U2FsdGVkX19JZzS+0YvTJD\/CQ0bZXA6PmYs3DdIHaMRdjJc1j\/zH3G0fUe7ORuwa3ldAsCaTXLrxdDmZDHtTjQ==</find>
+      <find>U2FsdGVkX1\/Mc\/A8LErYaFn27+d5tgr0y4pcvb9KAfNN0uYBLJFF6hRvVvAhYl99uYNNplecxD+DsPUKP1jcluRQrWN\/Whx6N8IR32s6VgRHGAUG5VuparT06szwqhd+IvkXNefwCj1emu8URDzQZVocdQ4Yc\/nZpvAdT\/ZqHEDUvJGcswMUDHy8ScHA7t4dnBW1sNDyEfqIbOBrvfr1XQcO2JWG+abdyY0+89zLLPA8G8iDK02Y5PIwIngPe1ufAgLlc1GRrS7WhnuHbd3qiQ==</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../GetLinkPhimBH" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/Application.java" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/config/ViewConfig.java" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/templates/pages/home.html" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/test/java/GetData.java" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/pom.xml" />
+        <option value="$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/service/JsoupGetData.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="942" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="haku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetLinkPhimBH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetLinkPhimBH" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last.edited.regexp" value="&#10;&lt;!DOCTYPE html&gt;&#10;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;en&quot; lang=&quot;en&quot;&gt;&#10;    &lt;head&gt;&#10;        &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;/&gt;&#10;        &lt;meta http-equiv=&quot;content-language&quot; content=&quot;vi&quot; /&gt;&#10;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, user-scalable=yes&quot;/&gt;&#10;        &lt;meta name=&quot;title&quot; content=&quot;Xem Phim Tôi Không Phải Là Robot Tập 14 VietSub - Thuyết Minh&quot; /&gt;&#10;        &lt;meta name=&quot;revisit-after&quot; content=&quot;1 days&quot; /&gt;&#10;        &lt;meta name=&quot;ROBOTS&quot; content=&quot;index,follow,noodp&quot; /&gt;&#10;        &lt;meta name=&quot;googlebot&quot; content=&quot;index,follow&quot; /&gt;&#10;        &lt;meta name=&quot;BingBOT&quot; content=&quot;index,follow&quot; /&gt;&#10;        &lt;meta name=&quot;yahooBOT&quot; content=&quot;index,follow&quot; /&gt;&#10;        &lt;meta name=&quot;slurp&quot; content=&quot;index,follow&quot; /&gt;&#10;        &lt;meta name=&quot;msnbot&quot; content=&quot;index,follow&quot; /&gt;&#10;        &lt;meta property=&quot;og:site_name&quot; content=&quot;phimbathu.com&quot; /&gt;&#10;        &lt;meta property=&quot;og:locale&quot; content=&quot;vi_VN&quot; /&gt;&#10;        &lt;meta property=&quot;fb:app_id&quot; content=&quot;997409100283248&quot; /&gt;&#10;&lt;meta property=&quot;og:type&quot; content=&quot;video.episode&quot; /&gt;&#10;&lt;meta property=&quot;og:url&quot; content=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot; /&gt;&#10;&lt;meta property=&quot;og:title&quot; content=&quot;Xem Phim Tôi Không Phải Là Robot Tập 14 VietSub - Thuyết Minh&quot; /&gt;&#10;&lt;meta property=&quot;og:image&quot; content=&quot;https://media.phimbathu.com/uploads/2017/12/600/1-201712740.jpg&quot; /&gt;&#10;&lt;meta property=&quot;og:description&quot; content=&quot;Tôi Không Phải Là Robot Tập 14. Phim Tôi Không Phải Là Robot Là một trong những phim dẫn đầu trào lưu robot, I&amp;amp;#39;m Not a Robot xoay quanh câu ...&quot; /&gt;&#10;&lt;meta property=&quot;og:updated_time&quot; content=&quot;1515716746&quot; /&gt;&#10;&lt;meta name=&quot;keywords&quot; content=&quot;Phim Tôi Không Phải Là Robot tập 14 VietSub, Tôi Không Phải Là Robot tập 14 thuyết minh, Toi Khong Phai La Robot 2018, Toi Khong Phai La Robot tap 14, I&amp;#039;m Not a Robot 2017, I&amp;#039;m Not a Robot tap 14, I&amp;#039;m Not a Robot ep 14&quot; /&gt;&#10;&lt;meta name=&quot;description&quot; content=&quot;Tôi Không Phải Là Robot Tập 14. Phim Tôi Không Phải Là Robot Là một trong những phim dẫn đầu trào lưu robot, I&amp;amp;#39;m Not a Robot xoay quanh câu ...&quot; /&gt;&#10;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/owl.carousel.css&quot; /&gt;&#10;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/js/fancybox/jquery.fancybox.css&quot; /&gt;&#10;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/user.css&quot; /&gt;&#10;&lt;title&gt;Xem Phim Tôi Không Phải Là Robot Tập 14 VietSub - Thuyết Minh&lt;/title&gt;&#10;        &lt;link rel=&quot;canonical&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot; /&gt;&#10;        &lt;link rel=&quot;shortcut icon&quot; href=&quot;/favicon.ico&quot; type=&quot;image/x-icon&quot; /&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href='/css/font-face.css?v=1.2' /&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css&quot;/&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/bootstrap.min.css&quot;/&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/jquery-ui.min.css&quot;/&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/default.css?v=1.3&quot;/&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/styles.css?v=1.2&quot;/&gt;&#10;        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/responsive.css?v=1.2&quot;/&gt;&#10;                &lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery.min.js?v=1.3&quot;&gt;&lt;/script&gt;&#10;        &lt;script type=&quot;text/javascript&quot; src=&quot;/js/bootstrap2.min.js?v=1.7&quot;&gt;&lt;/script&gt;&#10;        &lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery-ui.min.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery.lazyload.min.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script type=&quot;text/javascript&quot; src=&quot;/js/actions.js?v=1.1&quot;&gt;&lt;/script&gt;&#10;        &lt;script type=&quot;text/javascript&quot; src=&quot;/js/functions.js?v=1.9&quot;&gt;&lt;/script&gt;&#10;                &lt;style&gt;.fa{height:auto !important}&lt;/style&gt;    &#10;   &lt;/head&gt;&#10;   &#10;   &lt;body &gt;&#10;      &lt;div id=&quot;page&quot;&gt;&#10;         &lt;div id=&quot;header&quot;&gt;&#10;   &lt;div class=&quot;container&quot;&gt;&#10;                              &lt;div class=&quot;top&quot;&gt;&#10;               &lt;div class=&quot;left logo&quot; style=&quot;box-shadow: 0px 1px 3px rgba(0,0,0,0.2);&quot;&gt;&#10;                  &lt;a href=&quot;/&quot; title=&quot;Trang chủ&quot;&gt;&#10;                     &lt;img alt=&quot;phimbathu.com&quot; title=&quot;phimbathu.com&quot; src=&quot;https://media.phimbathu.com/images/logo.png&quot; /&gt;&#10;                  &lt;/a&gt;&#10;               &lt;/div&gt;&#10;               &lt;div class=&quot;right-header&quot;&gt;&#10;                  &lt;div class=&quot;search-container relative&quot;&gt;&#10;                     &lt;form id=&quot;form_search&quot; method=&quot;GET&quot; action=&quot;/tim-kiem.html&quot;&gt;&#10;                        &lt;input type=&quot;text&quot; name=&quot;q&quot; id=&quot;keyword&quot; autocomplete=&quot;off&quot; placeholder=&quot;Nhập tên phim hoặc diễn viên bạn cần tìm !&quot; /&gt;&#10;                        &lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&#10;                        &lt;div style=&quot;display: block;&quot; id=&quot;suggestions&quot; class=&quot;top-search-box&quot;&gt;&lt;/div&gt;&#10;                     &lt;/form&gt;&#10;                  &lt;/div&gt;&#10;                  &lt;div id=&quot;box-user-menu&quot; class=&quot;actions-user right&quot;&gt;&#10;                     &lt;ul&gt;&#10;                                                   &lt;li&gt;&#10;                              &lt;i class=&quot;fa fa-sign-in&quot;&gt;&lt;/i&gt;&#10;                              &lt;a title=&quot;Đăng nhập&quot; href=&quot;/user/login&quot;&gt;Đăng nhập&lt;/a&gt;&#10;                           &lt;/li&gt;&#10;                           &lt;li&gt;&#10;                              &lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&#10;                              &lt;a title=&quot;Đăng ký&quot; href=&quot;/user/register&quot;&gt;Đăng ký&lt;/a&gt;&#10;                           &lt;/li&gt;   &#10;                                                &lt;a title=&quot;Đăng tải phim&quot; href=&quot;/film/upload&quot; title=&quot;Đăng tải phim&quot;&gt;&#10;                           &lt;i class=&quot;fa fa-cloud-upload&quot;&gt;&lt;/i&gt;&#10;                           Đăng tải phim&#10;                        &lt;/a&gt;&#10;                     &lt;/ul&gt;&#10;                  &lt;/div&gt;&#10;                                            &lt;div class=&quot;suggest-dns&quot;&gt;  &#10;                            &lt;p&gt;Cách tìm phim nhanh nhất trên Google: Viết &quot;Tên phim + Phimbathu&quot;. Xem hướng dẫn &lt;a style=&quot;color:#fff601;text-decoration:underline&quot; href=&quot;https://phimbathu.com/huong-dan-tim-kiem-phim.html&quot; target=&quot;_blank&quot;&gt;tại đây&lt;/a&gt;&lt;/p&gt;&#10;                        &lt;/div&gt; &#10;                     &#10;                &lt;/div&gt;&#10;               &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;            &lt;/div&gt;   &#10;                 &#10;   &lt;/div&gt;&#10;   &lt;div class=&quot;main-menu&quot;&gt;&#10;      &lt;ul class=&quot;container&quot;&gt;&#10;                  &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;&quot; href=&quot;/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;&lt;/a&gt;&#10;                              &#10;                              &#10;                           &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Thể loại&quot; href=&quot;/the-loai&quot;&gt;&lt;i class=&quot;fa fa-align-center&quot;&gt;&lt;/i&gt;Thể loại&lt;/a&gt;&#10;                                                      &lt;ul class=&quot;sub-menu span-2 absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim hành động&quot; href=&quot;/the-loai/phim-hanh-dong-3.html&quot;&gt;Phim hành động&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim võ thuật&quot; href=&quot;/the-loai/phim-vo-thuat-5.html&quot;&gt;Phim võ thuật&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim tâm lý&quot; href=&quot;/the-loai/phim-tam-ly-2.html&quot;&gt;Phim tâm lý&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim hài hước&quot; href=&quot;/the-loai/phim-hai-huoc-1.html&quot;&gt;Phim hài hước&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim hoạt hình&quot; href=&quot;/the-loai/phim-hoat-hinh-7.html&quot;&gt;Phim hoạt hình&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim phiêu lưu&quot; href=&quot;/the-loai/phim-phieu-luu-8.html&quot;&gt;Phim phiêu lưu&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim kinh dị&quot; href=&quot;/the-loai/phim-kinh-di-4.html&quot;&gt;Phim kinh dị&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim hình sự&quot; href=&quot;/the-loai/phim-hinh-su-9.html&quot;&gt;Phim hình sự&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiến tranh&quot; href=&quot;/the-loai/phim-chien-tranh-10.html&quot;&gt;Phim chiến tranh&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thần thoại&quot; href=&quot;/the-loai/phim-than-thoai-11.html&quot;&gt;Phim thần thoại&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim viễn tưởng&quot; href=&quot;/the-loai/phim-vien-tuong-12.html&quot;&gt;Phim viễn tưởng&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim cổ trang&quot; href=&quot;/the-loai/phim-co-trang-13.html&quot;&gt;Phim cổ trang&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim khoa học tài liệu&quot; href=&quot;/the-loai/phim-khoa-hoc-tai-lieu-14.html&quot;&gt;Phim khoa học tài liệu&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim âm nhạc&quot; href=&quot;/the-loai/phim-am-nhac-15.html&quot;&gt;Phim âm nhạc&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim TV Show&quot; href=&quot;/the-loai/phim-tv-show-16.html&quot;&gt;Phim TV Show&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Anime&quot; href=&quot;/the-loai/anime-21.html&quot;&gt;Anime&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim Hàn Quôc&quot; href=&quot;/the-loai/phim-han-quoc-6.html&quot;&gt;Phim Hàn Quôc&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp&quot; href=&quot;/the-loai/phim-chieu-rap-23.html&quot;&gt;Phim chiếu rạp&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh&quot; href=&quot;/the-loai/phim-thuyet-minh-24.html&quot;&gt;Phim thuyết minh&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Movie Trailers&quot; href=&quot;/the-loai/movie-trailers-22.html&quot;&gt;Movie Trailers&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                                &#10;                              &#10;                           &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Quốc gia&quot; href=&quot;/quoc-gia&quot;&gt;&lt;i class=&quot;fa fa-globe&quot;&gt;&lt;/i&gt;Quốc gia&lt;/a&gt;&#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu span-3 absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Mỹ&quot; href=&quot;/quoc-gia/my-18.html&quot;&gt;Mỹ&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Hàn Quốc&quot; href=&quot;/quoc-gia/han-quoc-52.html&quot;&gt;Hàn Quốc&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Trung Quốc&quot; href=&quot;/quoc-gia/trung-quoc-35.html&quot;&gt;Trung Quốc&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Hồng Kông&quot; href=&quot;/quoc-gia/hong-kong-24.html&quot;&gt;Hồng Kông&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Việt Nam&quot; href=&quot;/quoc-gia/viet-nam-69.html&quot;&gt;Việt Nam&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Nhật Bản&quot; href=&quot;/quoc-gia/nhat-ban-70.html&quot;&gt;Nhật Bản&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Ấn Độ&quot; href=&quot;/quoc-gia/an-do-71.html&quot;&gt;Ấn Độ&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Thái Lan&quot; href=&quot;/quoc-gia/thai-lan-72.html&quot;&gt;Thái Lan&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Pháp&quot; href=&quot;/quoc-gia/phap-73.html&quot;&gt;Pháp&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Anh&quot; href=&quot;/quoc-gia/anh-74.html&quot;&gt;Anh&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Đài Loan&quot; href=&quot;/quoc-gia/dai-loan-77.html&quot;&gt;Đài Loan&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Khác&quot; href=&quot;/quoc-gia/khac-75.html&quot;&gt;Khác&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                                &#10;                           &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim lẻ&quot; href=&quot;/danh-sach/phim-le.html&quot;&gt;&lt;i class=&quot;fa fa-life-ring&quot;&gt;&lt;/i&gt;Phim lẻ&lt;/a&gt;&#10;                              &#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2017&quot; href=&quot;/danh-sach/phim-le-2017&quot;&gt;Phim lẻ 2017&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2016&quot; href=&quot;/danh-sach/phim-le-2016&quot;&gt;Phim lẻ 2016&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2015&quot; href=&quot;/danh-sach/phim-le-2015&quot;&gt;Phim lẻ 2015&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2014&quot; href=&quot;/danh-sach/phim-le-2014&quot;&gt;Phim lẻ 2014&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2013&quot; href=&quot;/danh-sach/phim-le-2013&quot;&gt;Phim lẻ 2013&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim lẻ 2012&quot; href=&quot;/danh-sach/phim-le-2012&quot;&gt;Phim lẻ 2012&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                             &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim bộ&quot; href=&quot;/danh-sach/phim-bo.html&quot;&gt;&lt;i class=&quot;fa fa-camera-retro&quot;&gt;&lt;/i&gt;Phim bộ&lt;/a&gt;&#10;                              &#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2017&quot; href=&quot;/danh-sach/phim-bo-2017&quot;&gt;Phim bộ 2017&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2016&quot; href=&quot;/danh-sach/phim-bo-2016&quot;&gt;Phim bộ 2016&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2015&quot; href=&quot;/danh-sach/phim-bo-2015&quot;&gt;Phim bộ 2015&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2014&quot; href=&quot;/danh-sach/phim-bo-2014&quot;&gt;Phim bộ 2014&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2013&quot; href=&quot;/danh-sach/phim-bo-2013&quot;&gt;Phim bộ 2013&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim bộ 2012&quot; href=&quot;/danh-sach/phim-bo-2012&quot;&gt;Phim bộ 2012&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                             &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim chiếu rạp&quot; href=&quot;/danh-sach/phim-chieu-rap.html&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;Phim chiếu rạp&lt;/a&gt;&#10;                              &#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2017&quot; href=&quot;/danh-sach/phim-chieu-rap-2017&quot;&gt;Phim chiếu rạp 2017&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2016&quot; href=&quot;/danh-sach/phim-chieu-rap-2016&quot;&gt;Phim chiếu rạp 2016&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2015&quot; href=&quot;/danh-sach/phim-chieu-rap-2015&quot;&gt;Phim chiếu rạp 2015&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2014&quot; href=&quot;/danh-sach/phim-chieu-rap-2014&quot;&gt;Phim chiếu rạp 2014&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2013&quot; href=&quot;/danh-sach/phim-chieu-rap-2013&quot;&gt;Phim chiếu rạp 2013&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim chiếu rạp 2012&quot; href=&quot;/danh-sach/phim-chieu-rap-2012&quot;&gt;Phim chiếu rạp 2012&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                             &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim mới&quot; href=&quot;/danh-sach/phim-moi.html&quot;&gt;&lt;i class=&quot;fa fa-lightbulb-o&quot;&gt;&lt;/i&gt;Phim mới&lt;/a&gt;&#10;                              &#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2017&quot; href=&quot;/danh-sach/phim-moi-2017&quot;&gt;Phim 2017&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2016&quot; href=&quot;/danh-sach/phim-moi-2016&quot;&gt;Phim 2016&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2015&quot; href=&quot;/danh-sach/phim-moi-2015&quot;&gt;Phim 2015&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2014&quot; href=&quot;/danh-sach/phim-moi-2014&quot;&gt;Phim 2014&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2013&quot; href=&quot;/danh-sach/phim-moi-2013&quot;&gt;Phim 2013&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim 2012&quot; href=&quot;/danh-sach/phim-moi-2012&quot;&gt;Phim 2012&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                             &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim thuyết minh&quot; href=&quot;/danh-sach/phim-thuyet-minh.html&quot;&gt;&lt;i class=&quot;fa fa-comment&quot;&gt;&lt;/i&gt;Phim thuyết minh&lt;/a&gt;&#10;                              &#10;                              &#10;                                                      &lt;ul class=&quot;sub-menu absolute&quot;&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2017&quot; href=&quot;/danh-sach/phim-thuyet-minh-2017&quot;&gt;Phim thuyết minh 2017&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2016&quot; href=&quot;/danh-sach/phim-thuyet-minh-2016&quot;&gt;Phim thuyết minh 2016&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2015&quot; href=&quot;/danh-sach/phim-thuyet-minh-2015&quot;&gt;Phim thuyết minh 2015&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2014&quot; href=&quot;/danh-sach/phim-thuyet-minh-2014&quot;&gt;Phim thuyết minh 2014&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2013&quot; href=&quot;/danh-sach/phim-thuyet-minh-2013&quot;&gt;Phim thuyết minh 2013&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                             &lt;li class=&quot;sub-menu-item&quot;&gt;&#10;                           &lt;a title=&quot;Phim thuyết minh 2012&quot; href=&quot;/danh-sach/phim-thuyet-minh-2012&quot;&gt;Phim thuyết minh 2012&lt;/a&gt;&#10;                        &lt;/li&gt;&#10;                                          &lt;/ul&gt;&#10;                                             &lt;/li&gt;&#10;            &#10;                     &lt;li class=&quot;menu-item &quot;&gt;&#10;               &lt;a title=&quot;Phim hoạt hình&quot; href=&quot;/phim-anime&quot;&gt;&lt;i class=&quot;fa fa-video-camera&quot;&gt;&lt;/i&gt;Phim hoạt hình&lt;/a&gt;&#10;                              &#10;                              &#10;                           &lt;/li&gt;&#10;            &#10;               &lt;/ul&gt;&#10;   &lt;/div&gt;&#10;   &lt;div id=&quot;abdMasthead&quot; style=&quot;margin:0 auto; width:970px&quot;&gt;&lt;/div&gt;&lt;div id=&quot;bswrapper_inhead&quot; style=&quot;margin:0 auto; width:970px&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#10;&lt;script&gt;&#10;   $(document).ready(function(){&#10;       var searchValue = &quot;&quot;;&#10;       var lastTimeQuery = null;&#10;       var lastQuery = &quot;&quot;;&#10;       var timer = null;&#10;       var xTriggered = 0;&#10;       var frirstpos = 0;&#10;       var lastpos = 0;&#10;       var offs = 0;&#10;       function suggesstionFunc() {&#10;           $.ajax({&#10;               url: &quot;/suggest&quot;,&#10;               data: {&#10;                   q: $(&quot;#keyword&quot;).val()&#10;               }&#10;           }).done(function(data) {&#10;               $(&quot;#suggestions&quot;).html(data).show();&#10;            });&#10;&#10;       }&#10;       $('#keyword').blur(function (event) {&#10;           setTimeout(&quot;$('#suggestions').fadeOut(50);&quot;, 300);&#10;       });&#10;       $('#keyword').keyup(function (e) {&#10;           if(e.keyCode == 38 || e.keyCode == 40 || e.keyCode == 13) {&#10;               if ($('#suggestions').css('display') != 'block')&#10;                   return;&#10;               var allItem = $('#suggestions li a');&#10;               var activeItem = $('#suggestions li a.active');&#10;               var totalItem = allItem.size();&#10;               var firstItem = allItem.eq(0);&#10;               var lastItem = allItem.eq(totalItem - 1);&#10;               var idx = allItem.index(activeItem);&#10;&#10;               if (!totalItem) {&#10;                   return;&#10;               }&#10;               switch (e.keyCode) {&#10;                   case 38:&#10;                       if (idx == -1) {&#10;                           lastItem.addClass('active');&#10;                       } else {&#10;                           var prevItem = allItem.eq(idx - 1);&#10;                           activeItem.removeClass('active');&#10;                           prevItem.addClass('active');&#10;                       }&#10;                       break;&#10;                   case 40:&#10;                       if (idx == -1) {&#10;                           firstItem.addClass('active');&#10;                       } else if (idx == (totalItem - 1)) {&#10;                           // Item cuoi cung&#10;                           activeItem.removeClass('active');&#10;                           firstItem.addClass('active');&#10;                       } else {&#10;                           var nextItem = allItem.eq(idx + 1);&#10;                           activeItem.removeClass('active');&#10;                           nextItem.addClass('active');&#10;                       }&#10;&#10;                       break;&#10;                   case 13:&#10;                       if (idx &gt;= 0 &amp;&amp; activeItem.attr('href') != &quot;&quot;) {&#10;                           $(location).attr('href', activeItem.attr('href'));&#10;                       } else {&#10;                           return true;&#10;                       }&#10;               }&#10;               return false;&#10;           } else {&#10;               var timerCallback = function () {&#10;                   suggesstionFunc();&#10;               };&#10;               clearTimeout(timer);&#10;               timer = setTimeout(timerCallback, 200);&#10;           }&#10;&#10;       });&#10;       function msuggesstionFunc() {&#10;           $.ajax({&#10;               url: &quot;/suggest&quot;,&#10;               data: {&#10;                   q: $(&quot;#mkeyword&quot;).val()&#10;               }&#10;           }).done(function(data) {&#10;                       $(&quot;#msuggestions&quot;).html(data).show();&#10;                   });&#10;&#10;       }&#10;       $('#mkeyword').keyup(function (e) {&#10;           if(e.keyCode == 38 || e.keyCode == 40 || e.keyCode == 13) {&#10;               if ($('#msuggestions').css('display') != 'block')&#10;                   return;&#10;               var allItem = $('#msuggestions li a');&#10;               var activeItem = $('#msuggestions li a.active');&#10;               var totalItem = allItem.size();&#10;               var firstItem = allItem.eq(0);&#10;               var lastItem = allItem.eq(totalItem - 1);&#10;               var idx = allItem.index(activeItem);&#10;&#10;               if (!totalItem) {&#10;                   return;&#10;               }&#10;               switch (e.keyCode) {&#10;                   case 38:&#10;                       if (idx == -1) {&#10;                           lastItem.addClass('active');&#10;                       } else {&#10;                           var prevItem = allItem.eq(idx - 1);&#10;                           activeItem.removeClass('active');&#10;                           prevItem.addClass('active');&#10;                       }&#10;                       break;&#10;                   case 40:&#10;                       if (idx == -1) {&#10;                           firstItem.addClass('active');&#10;                       } else if (idx == (totalItem - 1)) {&#10;                           // Item cuoi cung&#10;                           activeItem.removeClass('active');&#10;                           firstItem.addClass('active');&#10;                       } else {&#10;                           var nextItem = allItem.eq(idx + 1);&#10;                           activeItem.removeClass('active');&#10;                           nextItem.addClass('active');&#10;                       }&#10;&#10;                       break;&#10;                   case 13:&#10;                       if (idx &gt;= 0 &amp;&amp; activeItem.attr('href') != &quot;&quot;) {&#10;                           $(location).attr('href', activeItem.attr('href'));&#10;                       } else {&#10;                           return true;&#10;                       }&#10;               }&#10;               return false;&#10;           } else {&#10;               var timerCallback = function () {&#10;                   msuggesstionFunc();&#10;               };&#10;               clearTimeout(timer);&#10;               timer = setTimeout(timerCallback, 200);&#10;           }&#10;&#10;       });&#10;   })&#10;&lt;/script&gt;&#10;&#10;      &#10;         &lt;div id=&quot;content&quot;&gt;&#10;&#9;  &lt;script type=&quot;text/javascript&quot;&#10;          src=&quot;/jwplayer7/jwplayer.js?v=1.7&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot;&#10;          src=&quot;/jwplayer7/bplayer_v5.js?v=2.25&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot;&#10;          src=&quot;/js/fancybox/jquery.fancybox.pack.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/owl.carousel.min.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery.raty.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/functions.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/filmdetail.js?v=1.2&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/adsx_v4.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/js.cookie.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;text/javascript&quot; src=&quot;/js/fuckadblock.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script type=&quot;application/ld+json&quot;&gt;&#10;&#9;{&#10;&#9;&#9;&quot;@context&quot;: &quot;https://schema.org&quot;,&#10;&#9;&#9;&quot;@type&quot;: &quot;WebSite&quot;,&#10;&#9;&#9;&quot;url&quot;: &quot;https://phimbathu.com/toi-khong-phai-la-robot-im-not-a-robot-2017-9097.html&quot;,&#10;&#9;&#9;&quot;potentialAction&quot;: {&#10;&#9;&#9;&#9;&quot;@type&quot;: &quot;SearchAction&quot;,&#10;&#9;&#9;&#9;&quot;target&quot;: &quot;https://phimbathu.com/tim-kiem.html?q={key}&quot;,&#10;&#9;&#9;&#9;&quot;query-input&quot;: &quot;required name=key&quot;&#10;&#9;&#9;}&#10;&#9;}&#10;&#10;  &lt;/script&gt;&#10;  &lt;div class=&quot;main-content&quot; id=&quot;player-video&quot;&gt;&#10;    &lt;div class=&quot;top-content&quot;&gt;&#10;      &lt;div class=&quot;container&quot; itemscope itemtype=&quot;https://schema.org/TVSeries&quot;&gt;&#10;                  &lt;meta itemprop=&quot;image&quot; content=&quot;https://phimbathu.comhttps://media.phimbathu.com/uploads/2017/12/600/1-201712740.jpg&quot;/&gt;&#10;        &lt;meta itemprop=&quot;description&quot; content=&quot;Tôi Không Phải Là Robot Tập 14. Phim Tôi Không Phải Là Robot Là một trong những phim dẫn đầu trào lưu robot, I&amp;#39;m Not a Robot xoay quanh câu ...&quot;/&gt;&#10;        &lt;div class=&quot;left-content-player &quot;&gt;&#10;          &lt;div class=&quot;box-player&quot; id=&quot;box-player&quot;&gt;&#10;            &lt;div id=&quot;player_message&quot; style=&quot;display:none;&quot;&gt;&lt;/div&gt;&#10;            &lt;div id=&quot;skipad&quot; class=&quot;skip&quot; style=&quot;display:none;&quot;&gt;Bỏ qua quảng cáo&lt;/div&gt;&#10;            &lt;div id=&quot;adsmessage&quot; class=&quot;adsmessage&quot; style=&quot;display:none;&quot;&gt;&lt;/div&gt;&#10;            &lt;div id=&quot;admute&quot; class=&quot;admute active&quot; style=&quot;display:none;&quot;&gt;Tắt âm quảng cáo&lt;/div&gt;&#10;            &lt;div id=&quot;player&quot;&gt;&#10;&#10;            &lt;/div&gt;&#10;            &lt;div class=&quot;loading-container&quot;&gt;&#10;              &lt;div class=&quot;loading-player jw-icon&quot;&gt;&lt;/div&gt;&#10;            &lt;/div&gt;&#10;          &lt;/div&gt;&#10;          &lt;script type=&quot;text/javascript&quot;&gt;&#10;            var playerSetting = {&quot;sourceLinks&quot;:[{&quot;server&quot;:&quot;sb&quot;,&quot;label&quot;:&quot;Vietsub&quot;,&quot;links&quot;:[{&quot;file&quot;:&quot;U2FsdGVkX1\/skHtQAYvHzXvmvgIQzhY\/8uFbTsw3yEJpwF8oN+4+54Z7kYgbhbbXu0zRu6J3Xkn2P\/b6HaAx\/EoEv8GtEfi1SYlxsuQaGrzgDghF23vfhJi3AELU\/5bNdnMLuNOU3Dv8bLqWc6lN8QPmQmxw3cl\/+pTzuiSCNjs9CdFw+Rz5rRpbNn\/SgXuFXg3PTa4nIFKcqGbSiv3DOzAzNxlcCrkaO0cYJqLyEDt+QUw9zGyq3xyu2VEHvZqqSD6moOr+TgOoJoZy8dPYzQ==&quot;,&quot;type&quot;:&quot;mp4&quot;,&quot;label&quot;:&quot;720p&quot;,&quot;default&quot;:&quot;false&quot;}]},{&quot;server&quot;:&quot;st&quot;,&quot;label&quot;:&quot;Vietsub&quot;,&quot;links&quot;:[{&quot;file&quot;:&quot;U2FsdGVkX18y6DF5+Go63BgpHz3Z5hUI0OKNNqlGF\/68\/6HpuDF+kKcbERZjheBDVHLJ36TMF0GKF7l2zW1Q69f8S2+QCVi7VVOmsJUCIqk=&quot;,&quot;type&quot;:&quot;mp4&quot;,&quot;label&quot;:&quot;HD&quot;,&quot;default&quot;:&quot;false&quot;}]},{&quot;server&quot;:&quot;gs&quot;,&quot;label&quot;:&quot;Vietsub&quot;,&quot;links&quot;:[{&quot;file&quot;:&quot;U2FsdGVkX18gq1G6CJ0s\/X20Bkdn0xCNJfm+pUdO1xTygYqM6478WYruvuJItctDlU4vNaI00F+oXP91fyL7OUBb4SToRJ6gjSlI5BYjzK7Fl\/rn2pARnBCdETZo5tA\/hyADlwsHA1QollfBMaPV27jYO5eVL+N0o0XEwbfRCnfwa30WTV7biFcQLO1YgotKQeFmAK8kaEDtUI8l\/ivimLCntdnP8Rpbdq00GXV6TCVqmy1R7LD+11Yj9eubNyqp0QgvWXJlZfCNXCjnbNQDvmK5Tve0KQpnmDIZpt9Nk2aqp72s63aum3+L+QPgO8Zu&quot;,&quot;type&quot;:&quot;mp4&quot;,&quot;label&quot;:&quot;720p&quot;,&quot;default&quot;:&quot;false&quot;}]},{&quot;server&quot;:&quot;op&quot;,&quot;label&quot;:&quot;Vietsub&quot;,&quot;links&quot;:[{&quot;file&quot;:&quot;U2FsdGVkX1\/+NOGZKDGfPHFRr7isQboUSQAlhHfX\/DYQSKenynpNtO69jACsxO3\/zRIWSEl1DLXX7yJT6YPu+Q==&quot;,&quot;type&quot;:&quot;embed&quot;,&quot;label&quot;:&quot;360p&quot;,&quot;default&quot;:&quot;true&quot;}]}],&quot;sourceLinksBk&quot;:[],&quot;linkV6Check&quot;:&quot;&quot;,&quot;tracks&quot;:[],&quot;pauseAds&quot;:&quot;&quot;,&quot;adsArray&quot;:[&quot;https:\/\/player.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=418349677c035bfea504256978efa1fe&quot;,&quot; https:\/\/an.facebook.com\/v1\/instream\/vast.xml?placementid=1706800052727047_1797189273688124&amp;pageurl=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/an.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/d2.hadarone.com\/vast3?plm=1207&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547755\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=2bf97c23e8b8d748053551b987a0c0d9&quot;,&quot;https:\/\/as.innity.com\/synd\/?pub=84f74ce4511e0c9531af1182fb636f0f&amp;zone=58012&amp;output=xml&amp;cb=[timestamp]&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547807\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;],&quot;midArray&quot;:[&quot;https:\/\/player.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=418349677c035bfea504256978efa1fe&quot;,&quot; https:\/\/an.facebook.com\/v1\/instream\/vast.xml?placementid=1706800052727047_1797189273688124&amp;pageurl=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/an.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;,&quot;https:\/\/d2.hadarone.com\/vast3?plm=1207&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547755\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=2bf97c23e8b8d748053551b987a0c0d9&quot;,&quot;https:\/\/as.innity.com\/synd\/?pub=84f74ce4511e0c9531af1182fb636f0f&amp;zone=58012&amp;output=xml&amp;cb=[timestamp]&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547807\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;],&quot;skipArr&quot;:{&quot;https:\/\/player.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;:&quot;15&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=418349677c035bfea504256978efa1fe&quot;:&quot;11&quot;,&quot; https:\/\/an.facebook.com\/v1\/instream\/vast.xml?placementid=1706800052727047_1797189273688124&amp;pageurl=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;:&quot;16&quot;,&quot;https:\/\/an.cliphub.io\/cvast.xml?pub=phimbathu.com&amp;origin=https:\/\/phimbathu.com\/xem-phim\/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;:&quot;15&quot;,&quot;https:\/\/d2.hadarone.com\/vast3?plm=1207&quot;:&quot;11&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547755\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;:&quot;22&quot;,&quot;https:\/\/blueserving.com\/vast.xml?key=2bf97c23e8b8d748053551b987a0c0d9&quot;:&quot;10&quot;,&quot;https:\/\/as.innity.com\/synd\/?pub=84f74ce4511e0c9531af1182fb636f0f&amp;zone=58012&amp;output=xml&amp;cb=[timestamp]&quot;:&quot;12&quot;,&quot;https:\/\/adserver.adtech.de\/?advideo\/3.0\/1686.1\/6547807\/0\/0\/cc=2;vidAS=pre_roll;vidRT=VAST;vidRTV=2.0;cors=yes&quot;:&quot;22&quot;},&quot;isMobile&quot;:0,&quot;poster&quot;:&quot;https:\/\/media.phimbathu.com\/uploads\/2017\/12\/600\/1-201712740.jpg&quot;,&quot;title&quot;:&quot;T\u00f4i Kh\u00f4ng Ph\u1ea3i L\u00e0 Robot - T\u1eadp 14&quot;,&quot;downloadTitle&quot;:&quot;toi-khong-phai-la-robot-im-not-a-robot-2017-tap-65&quot;,&quot;aspectRatio&quot;:&quot;16:9&quot;,&quot;numberPreroll&quot;:&quot;5&quot;,&quot;skipTime&quot;:&quot;6&quot;,&quot;linkBackup&quot;:&quot;&quot;,&quot;modelId&quot;:&quot;9097&quot;};&#10;            $(document).ready(function () {&#10;              wPlayer = $(&quot;#player&quot;).width();&#10;              hPlayer = wPlayer * 9 / 16;&#10;              $(&quot;#player&quot;).height(hPlayer);&#10;              var bbPlayer = new BPlayer('player');&#10;              bbPlayer.init(playerSetting);&#10;              $(&quot;#btn_download&quot;).click(function () {&#10;                bbPlayer.downloadVideo();&#10;              });&#10;              $(&quot;#btn_fullscreen&quot;).click(function () {&#10;                bbPlayer.setFullscreen();&#10;              });&#10;              $(window).resize(function () {&#10;                playerw = $('#player').width();&#10;                                  playerh = playerw * 9 / 16;&#10;                  &#10;                $('#player').height(playerh);&#10;              });&#10;              $(&quot;#admute&quot;).click(function () {&#10;                var $this = $(this);&#10;                if ($this.hasClass('active')) {&#10;                  $this.removeClass('active');&#10;                  $this.html('Bật âm quảng cáo');&#10;                  //playerInstance.setMute(true);&#10;                  Cookies.set('admute', 1);&#10;                } else {&#10;                  $this.addClass('active');&#10;                  $this.html('Tắt âm quảng cáo');&#10;                  //playerInstance.setMute(false);&#10;                  Cookies.remove('admute');&#10;                }&#10;              });&#10;              $(&quot;#list-server span.btn&quot;).click(function() {&#10;&#9;&#9;&#9;&#9;  var $btn = $(this);&#10;&#9;&#9;&#9;&#9;&#9;var index = $btn.data(&quot;index&quot;);&#10;&#9;&#9;&#9;&#9;&#9;$.getJSON(&quot;/ajax/getLinkPlayer/id/97560/index/&quot;+index, function(data) {&#10;&#9;&#9;&#9;&#9;&#9;&#9;if(data) {&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;$(&quot;#list-server span.btn&quot;).removeClass(&quot;disabled btn-danger&quot;);&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;$btn.addClass(&quot;disabled btn-danger&quot;);&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;bbPlayer.changePlayer(data);&#10;&#9;&#9;&#9;&#9;&#9;&#9;}&#10;&#9;&#9;&#9;&#9;&#9;});&#10;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;});&#10;              /*&#10;               if(getMobileOperatingSystem() == 'iOS') {&#10;               $(&quot;#player_message&quot;).html(&quot;Nếu bạn không xem được phim vui lòng click &lt;a href='?try=true' class='btn btn-danger'&gt;&lt;i class='fa fa-hand-o-right'&gt;&lt;/i&gt; tại đây&lt;/a&gt;&quot;).show();&#10;               }&#10;               */&#10;              if (isMobile()) {&#10;                //$(&quot;#player_message&quot;).html(&quot;Nếu bạn không xem được phim vui lòng click Server &lt;span style='color:#ff0000;font-weight:bold'&gt;ST&lt;/span&gt; hoặc các Server khác nếu có.&quot;).show();&#10;&#9;&#9;&#9;&#9;$(&quot;#player_message&quot;).html(&quot;Cáp quang trên biển đang gặp sự cố bạn vui lòng chọn Server &lt;span style='color:#ff0000;font-weight:bold'&gt;#GD, #GS&lt;/span&gt; hoặc &lt;span style='color:#ff0000;font-weight:bold'&gt;#SB&lt;/span&gt; để xem tốt hơn.&quot;).show();&#10;              }else{&#10;&#9;&#9;&#9;&#9;  //$(&quot;#player_message&quot;).html(&quot;Nếu bạn không xem được phim vui lòng click Server &lt;span style='color:#ff0000'&gt;#1&lt;/span&gt;, &lt;span style='color:#ff0000'&gt;#2&lt;/span&gt;, &lt;span style='color:#ff0000'&gt;#3&lt;/span&gt; hoặc các server khác nếu có.&quot;).show();&#10;&#9;&#9;&#9;&#9;  $(&quot;#player_message&quot;).html(&quot;Cáp quang trên biển đang gặp sự cố bạn vui lòng chọn Server &lt;span style='color:#ff0000;font-weight:bold'&gt;#GD, #GS&lt;/span&gt; hoặc &lt;span style='color:#ff0000;font-weight:bold'&gt;#SB&lt;/span&gt; để xem tốt hơn.&quot;).show();&#10;&#9;&#9;&#9;  }&#10;            });&#10;          &lt;/script&gt;&#10;&#9;&#9;  &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;          &lt;div class=&quot;div-control only-pc&quot;&gt;&#10;            &lt;span class=&quot;video-btn&quot; id=&quot;btn_lightbulb&quot; title=&quot;Tắt đèn&quot;&gt;&lt;i class=&quot;fa fa-lightbulb-o&quot;&gt;&lt;/i&gt;&lt;/span&gt;&#10;            &lt;span class=&quot;video-btn&quot; id=&quot;btn_fullscreen&quot; title=&quot;Xem toàn màn hình&quot;&gt;&lt;i class=&quot;fa fa-expand&quot;&gt;&lt;/i&gt;Toàn màn hình&lt;/span&gt;&#10;            &lt;span class=&quot;video-btn active&quot; id=&quot;btn_autonext&quot; title=&quot;Tắt tự chuyển tập&quot;&gt;&lt;i class=&quot;fa fa-step-forward&quot;&gt;&lt;/i&gt;&lt;/span&gt;&#10;            &lt;div class=&quot;left only-pc&quot; style=&quot;margin-top:5px;color:#fff&quot;&gt;&#10;              &lt;div class=&quot;fb-send&quot; data-href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot; data-size=&quot;large&quot;&gt;&lt;/div&gt;&#10;              &lt;i class=&quot;send-message-fb&quot;&gt;Bấm vào đây để gửi phim cho bạn bè cùng xem.&lt;/i&gt;&#10;            &lt;/div&gt;&#10;          &lt;/div&gt;&#10;          &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;          &lt;div class=&quot;list-server&quot; id=&quot;list-server&quot;&gt;&#10;                              &lt;div class=&quot;server-item&quot;&gt;&#10;                  &lt;div class=&quot;name col-lg-2 col-md-2 col-sm-4 col-xs-4&quot;&gt;&#10;                    &lt;span&gt;&lt;i class=&quot;fa fa-database&quot;&gt;&lt;/i&gt; HD1&lt;/span&gt;&#10;                  &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;  &lt;div class=&quot;option col-lg-10 col-md-10 col-sm-8 col-xs-8&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success disabled btn-danger&quot; title=&quot;sb&quot; data-index=&quot;0&quot;&gt;#1 SB&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success &quot; title=&quot;sb&quot; data-index=&quot;4&quot;&gt;#2 SB&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success &quot; title=&quot;op&quot; data-index=&quot;6&quot;&gt;#3 OP&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success &quot; title=&quot;st&quot; data-index=&quot;8&quot;&gt;#4 ST&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success &quot; title=&quot;st&quot; data-index=&quot;10&quot;&gt;#5 ST&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;btn btn-sm btn-success &quot; title=&quot;gs&quot; data-index=&quot;11&quot;&gt;#6 GS&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;                  &lt;/div&gt;&#10;                &lt;/div&gt;&#10;              &#9;&#9;&#9;            &lt;/div&gt;&#10;&#9;&#9;  &#10;&#9;&#9;             &lt;div class=&quot;control-box&quot;&gt;&#10;                              &lt;div class=&quot;episodes&quot;&gt;&#10;                  &lt;div class=&quot;caption&quot;&gt;&#10;                    &lt;span&gt;Tập:&lt;/span&gt;&#10;                  &lt;/div&gt;&#10;                  &lt;div class=&quot;list-episode&quot; id=&quot;list_episodes&quot;&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-1-9097_e96453.html&quot;&gt;1&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-2-9097_e96462.html&quot;&gt;2&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-3-9097_e96478.html&quot;&gt;3&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-4-9097_e96479.html&quot;&gt;4&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-5-9097_e96568.html&quot;&gt;5&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-6-9097_e96569.html&quot;&gt;6&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-7-9097_e97038.html&quot;&gt;7&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-8-9097_e97039.html&quot;&gt;8&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-9-9097_e97103.html&quot;&gt;9&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-10-9097_e97104.html&quot;&gt;10&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-11-9097_e97507.html&quot;&gt;11&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-12-9097_e97508.html&quot;&gt;12&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-13-9097_e97559.html&quot;&gt;13&lt;/a&gt;&#10;                                              &lt;a class=&quot;current&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;&gt;14&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-15-9097_e97936.html&quot;&gt;15&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-16-9097_e97937.html&quot;&gt;16&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-17-9097_e97996.html&quot;&gt;17&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-18-9097_e97997.html&quot;&gt;18&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-19-9097_e98283.html&quot;&gt;19&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-20-9097_e98284.html&quot;&gt;20&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-21-9097_e98347.html&quot;&gt;21&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-22-9097_e98348.html&quot;&gt;22&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-23-9097_e98785.html&quot;&gt;23&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-24-9097_e98786.html&quot;&gt;24&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-25-9097_e98844.html&quot;&gt;25 - Preview&lt;/a&gt;&#10;                                              &lt;a class=&quot;&quot; href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-26-9097_e98845.html&quot;&gt;26 - Preview&lt;/a&gt;&#10;                                        &lt;/div&gt;&#10;                &lt;/div&gt;&#10;                        &lt;/div&gt;&#10;          &lt;div class=&quot;details&quot;&gt;&#10;              &#10;            &lt;a href=&quot;/toi-khong-phai-la-robot-9097.html&quot; class=&quot;name&quot;&gt;&#10;              &lt;h1 itemprop=&quot;name&quot;&gt;Tôi Không Phải Là Robot&lt;/h1&gt;&#10;                &lt;span&gt;&amp;nbsp;-&amp;nbsp;&lt;/span&gt;&lt;h2 class=&quot;chapter-name&quot;&gt;Tập 14&lt;/h2&gt;              &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;              &lt;h2 class=&quot;real-name&quot;&gt;I'm Not a Robot (2017)&lt;/h2&gt;&#10;            &lt;/a&gt;&#10;            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;film-description &quot;&gt;&#10;&#9;&#9;&#9;&#9;&#10;&#10;Phim Tôi Không Phải Là Robot Là một trong những phim dẫn đầu trào lưu robot, I&amp;#39;m Not a Robot xoay quanh câu chuyện tình yêu của Kim Min Kyu (Yoo Seung Ho), một anh chàng trẻ giàu có, đẹp trai nhưng do ngại tiếp xúc với mọi người xung quanh mà đến bây giờ vẫn chưa có bạn gái. Mối tình đầu của anh chính là Jo Ji Ah (Chae Soo Bin), một nhà khoa học trẻ tuổi, và Aji3, mẫu robot cao cấp nhất trên thế giới ...&#9;&#9;&#9;&#9;&lt;a href=&quot;/toi-khong-phai-la-robot-9097.html&quot; &gt; Xem thêm&lt;/a&gt;&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;            &lt;div class=&quot;show-time&quot;&gt;&#10;              &lt;h3 class=&quot;heading&quot;&gt;&#10;                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt;&#10;                Lịch chiếu&#10;              &lt;/h3&gt;&#10;&#10;              &lt;div&gt;&#10;                  &lt;p style=&quot;text-align:justify&quot;&gt;&lt;strong&gt;Phim T&amp;ocirc;i Kh&amp;ocirc;ng Phải L&amp;agrave; Robot​&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;- I&amp;#39;m Not a Robot&lt;/strong&gt;&amp;nbsp;được chiếu v&amp;agrave;o thứ 4, 5&amp;nbsp;h&amp;agrave;ng tuần tại k&amp;ecirc;nh&amp;nbsp;&lt;strong&gt;MBC&amp;nbsp;&lt;/strong&gt;H&amp;agrave;n Quốc&lt;br /&gt;&#10;RAW - Nosub cập nhật 1-&amp;gt;2h sau khi chiếu&lt;br /&gt;&#10;&lt;strong&gt;VietSub T&amp;ocirc;i Kh&amp;ocirc;ng Phải L&amp;agrave; Robot -&amp;nbsp;I&amp;#39;m Not a Robot 2017&lt;/strong&gt;&amp;nbsp;cập nhật v&amp;agrave;o buổi s&amp;aacute;ng&amp;nbsp;thứ 5, 6&amp;nbsp;tr&amp;ecirc;n PhimBatHu.com&lt;/p&gt;&#10;              &lt;/div&gt;&#10;            &lt;/div&gt;&#10;&#9;&#9;&#9;&#10;            &lt;div class=&quot;control-box clear&quot;&gt;&#10;&#10;                              &#10;              &lt;div class=&quot;social-icon&quot;&gt;&#10;                &lt;div class=&quot;fb-like&quot;&#10;                     data-href=&quot;https://phimbathu.com/toi-khong-phai-la-robot-9097.html&quot;&#10;                     data-layout=&quot;button_count&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;&#10;                &lt;div class=&quot;gg-like&quot;&gt;&#10;                  &lt;div class=&quot;g-plusone&quot; data-annotation=&quot;none&quot; data-size=&quot;medium&quot; data-width=&quot;160&quot;&#10;                       data-href=&quot;https://phimbathu.com/xem-phim/toi-khong-phai-la-robot-im-not-a-robot-2017-tap-14-9097_e97560.html&quot;&gt;&lt;/div&gt;&#10;                  &lt;div class=&quot;g-plus&quot; data-action=&quot;share&quot; data-annotation=&quot;bubble&quot;&gt;&lt;/div&gt;&#10;                &lt;/div&gt;&#10;              &lt;/div&gt;&#10;              &#10;              &lt;div class=&quot;box-rating&quot; itemprop=&quot;aggregateRating&quot; itemscope itemtype=&quot;https://schema.org/AggregateRating&quot;&gt;&#10;                                  &lt;div class=&quot;rate-title&quot;&gt;&lt;span class=&quot;rate-lable&quot;&gt;Đánh giá phim &lt;/span&gt;(&lt;span id=&quot;rate_count&quot;&#10;                                                                                             itemprop=&quot;ratingCount&quot;&gt;525&lt;/span&gt;&#10;                  lượt)&#10;                &lt;/div&gt;&#10;                &lt;div id=&quot;star&quot; data-score=&quot;9.2&quot; style=&quot;cursor: pointer;&quot;&gt;&lt;/div&gt;&#10;                &lt;div&gt;&#10;                  &lt;div id=&quot;div_average&quot; style=&quot;float: left; line-height: 16px; margin: 0 5px; &quot;&gt;&#10;                    (&lt;span class=&quot;average&quot; id=&quot;average&quot; itemprop=&quot;ratingValue&quot;&gt;9.2&lt;/span&gt; đ)&#10;                  &lt;/div&gt;&#10;                  &lt;span id=&quot;hint&quot;&gt;&lt;/span&gt;&#10;                  &lt;meta itemprop=&quot;bestRating&quot; content=&quot;10&quot;/&gt;&#10;                  &lt;meta itemprop=&quot;worstRating&quot; content=&quot;0&quot;/&gt;&#10;                  &lt;input id=&quot;film_id&quot; type=&quot;hidden&quot; value=&quot;9097&quot;&gt;&#10;                &lt;/div&gt;&#10;              &lt;/div&gt;&#10;            &lt;/div&gt;&#10;            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div id=&quot;page-info&quot;&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;tags&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;caption&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9; &lt;span&gt;Từ khóa&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9; &lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt;&#10;&#9;&#9;&#9;&#9;  &lt;/li&gt;&#10;&#9;&#9;&#9;&#9;  &lt;li class=&quot;tag-item&quot;&gt;&lt;h3&gt;&lt;a href=&quot;/tag/toi-khong-phai-la-robot-21438.html&quot;&gt;Tôi Không Phải Là Robot&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;&lt;li class=&quot;tag-item&quot;&gt;&lt;h4&gt;&lt;a href=&quot;/tag/im-not-a-robot-2017-21439.html&quot;&gt;I'm Not a Robot 2017&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;&#9;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;            &lt;div class=&quot;adspruce-bannerspot&quot;&gt;&lt;/div&gt;&#10;              &#10;          &lt;/div&gt;&#10;        &lt;/div&gt;&#10;          &lt;div class=&quot;right-content&quot;&gt;&lt;/div&gt;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;    &lt;div class=&quot;bottom-content&quot;&gt;&#10;      &lt;div class=&quot;container&quot;&gt;&#10;        &lt;div class=&quot;list-films film-related&quot;&gt;&#10;          &lt;h3 class=&quot;title-box&quot;&gt;&lt;i class=&quot;fa fa-star-o&quot;&gt;&lt;/i&gt;&lt;a href=&quot;javascript:void(0)&quot;&gt;Phim đề cử&lt;/a&gt;&lt;/h3&gt;&#10;          &lt;ul id=&quot;film_related&quot; class=&quot;relative&quot;&gt;&#10;                                  &lt;li class=&quot;item&quot; title=&quot;Khí Linh 2&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 12 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/khi-linh-2-9156.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Khí Linh 2&quot; src=&quot;https://media.phimbathu.com/uploads/2017/12/150/1-201712947.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Khí Linh 2&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Lửa Tình Trái Ngang&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 20 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/lua-tinh-trai-ngang-9094.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Lửa Tình Trái Ngang&quot; src=&quot;https://media.phimbathu.com/uploads/2017/12/150/1-201712720.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Lửa Tình Trái Ngang&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Long Nhật Nhất Anh Chết Chắc 2017&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 28 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/long-nhat-nhat-anh-chet-chac-2017-9111.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Long Nhật Nhất Anh Chết Chắc 2017&quot; src=&quot;https://media.phimbathu.com/uploads/2017/12/150/the-sleep-curse-2017-720p-bluray01001000002-201712464.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Long Nhật Nhất Anh Chết Chắc 2017&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Yêu Xa&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 9 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/yeu-xa-9205.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Yêu Xa&quot; src=&quot;https://media.phimbathu.com/uploads/2018/01/150/yeu-201801669.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Yêu Xa&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Chúa Không Chết 2&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Vietsub HD&lt;/span&gt;&#10;                      &lt;a href=&quot;/chua-khong-chet-2-9265.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Chúa Không Chết 2&quot; src=&quot;https://media.phimbathu.com/uploads/2018/01/150/godsnotdead2-792291074-large-201801526.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Chúa Không Chết 2&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Lady Em Là Ai&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 99 Thuyết minh&lt;/span&gt;&#10;                      &lt;a href=&quot;/lady-em-la-ai-9010.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Lady Em Là Ai&quot; src=&quot;https://media.phimbathu.com/uploads/2017/11/150/1-201711754.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Lady Em Là Ai&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Eva Nổi Giận&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 74 Thuyết minh&lt;/span&gt;&#10;                      &lt;a href=&quot;/eva-noi-gian-9137.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Eva Nổi Giận&quot; src=&quot;https://media.phimbathu.com/uploads/2017/12/150/the-sleep-curse-2017-720p-bluray01001000002-201712516.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Eva Nổi Giận&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Con Tim Dối Lừa&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Full 26/26 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/con-tim-doi-lua-8942.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Con Tim Dối Lừa&quot; src=&quot;https://media.phimbathu.com/uploads/2017/11/150/1-201711471.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Con Tim Dối Lừa&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Tuổi Thơ Bá Đạo Của Sheldon&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 6 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/tuoi-tho-ba-dao-cua-sheldon-8494.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Tuổi Thơ Bá Đạo Của Sheldon&quot; src=&quot;https://media.phimbathu.com/uploads/2017/09/150/220532651242185022593605852073923n-201709880.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Tuổi Thơ Bá Đạo Của Sheldon&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                                      &lt;li class=&quot;item&quot; title=&quot;Tình Yêu Hay Sự Đố Kị&quot;&gt;&#10;                      &lt;span class=&quot;label&quot;&gt;Tập 13 Vietsub&lt;/span&gt;&#10;                      &lt;a href=&quot;/tinh-yeu-hay-su-do-ki-8719.html&quot;&gt;&#10;                        &lt;img class=&quot;img-film&quot; alt=&quot;Tình Yêu Hay Sự Đố Kị&quot; src=&quot;https://media.phimbathu.com/uploads/2017/10/150/360px-chingrukrissayaposter-201710484.jpg&quot;/&gt;&#10;                        &lt;div class=&quot;text absolute&quot;&gt;&#10;                          &lt;span class=&quot;title&quot;&gt;Tình Yêu Hay Sự Đố Kị&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                      &lt;/a&gt;&#10;                    &lt;/li&gt;&#10;                            &lt;/ul&gt;&#10;        &lt;/div&gt; &lt;!-- End film hot--&gt;&#10;          &#10;&#10;        &lt;div id=&quot;comment-tab&quot;&gt;&#10;                          &lt;ul class=&quot;tab-comment&quot;&gt;&#10;                &lt;li class=&quot;active&quot;&gt;&lt;h3&gt;&lt;a href=&quot;#tabs-facebook&quot;&gt;Bình luận phim Tôi Không Phải Là Robot &lt;/h3&gt;&lt;/a&gt;&lt;/li&gt;&#10;              &lt;/ul&gt;&#10;              &lt;div class=&quot;box-comment&quot; id=&quot;tabs-facebook&quot;&gt;&#10;                &lt;div class=&quot;fb-comments&quot; data-href=&quot;https://phimbathu.com/toi-khong-phai-la-robot-9097.html&quot;&#10;                     data-width=&quot;980&quot; data-numposts=&quot;5&quot; data-order-by=&quot;reverse_time&quot; data-colorscheme=&quot;light&quot;&gt;&lt;/div&gt;&#10;              &lt;/div&gt;&#10;              &lt;div class=&quot;box-comment&quot; id=&quot;tabs-system&quot;&gt;&#10;                &lt;div class=&quot;system-comment light&quot;&gt;&#10;                  &lt;div class=&quot;head&quot;&gt;&#10;                    &lt;i class=&quot;fa fa-comment&quot;&gt;&lt;/i&gt;&lt;span&gt;Bình luận&lt;/span&gt;&#10;                  &lt;/div&gt;&#10;                                          &lt;form action=&quot;/comment/comment/9097&quot; method=&quot;POST&quot;&gt;&#10;                        &lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&#10;                        &lt;div class=&quot;input&quot;&gt;&#10;                          &lt;textarea name='comment' disabled=&quot;disabled&quot;&gt;&lt;/textarea&gt;&#10;                        &lt;/div&gt;&#10;                        &lt;button type=&quot;submit&quot; disabled=&quot;disabled&quot; class=&quot;comment-submit&quot;&gt;Đăng&lt;/button&gt;&#10;                      &lt;/form&gt;&#10;                                      &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;&#10;                &lt;/div&gt;&#10;                &lt;div id=&quot;box-list-comment&quot; class=&quot;system-comment light&quot;&gt;&#10;                  &lt;ul class=&quot;list-comment&quot;&gt;&#10;                  &lt;/ul&gt;&#10;                &lt;/div&gt;&#10;              &lt;/div&gt;&#10;                    &lt;/div&gt;&#10;          &#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;  &lt;div id=&quot;error_film&quot; class=&quot;error-film&quot; style=&quot;display:none;&quot;&gt;&#10;    &lt;div class=&quot;warp&quot;&gt;&#10;      &lt;p class=&quot;h2-ttlpopup&quot;&gt;Báo lỗi phim&lt;/p&gt;&#10;      &lt;div class=&quot;contentpopup&quot;&gt;&#10;        &lt;div class=&quot;error&quot;&gt;&lt;/div&gt;&#10;        &lt;div class=&quot;row cf&quot;&gt;&#10;          &lt;div class=&quot;label&quot;&gt;Nội dung&lt;/div&gt;&#10;          &lt;div class=&quot;inputs&quot;&gt;&#10;            &lt;select id=&quot;error-type&quot; name=&quot;&quot; class=&quot;txtInputStyle selectstyle select-type-error&quot;&gt;&#10;              &lt;option value=&quot;error&quot;&gt;Không xem được phim&lt;/option&gt;&#10;              &lt;option value=&quot;lag&quot;&gt;Lỗi xem bị giật lag&lt;/option&gt;&#10;            &lt;/select&gt;&#10;          &lt;/div&gt;&#10;        &lt;/div&gt;&#10;        &lt;div class=&quot;cmd cf&quot;&gt;&#10;          &lt;input type=&quot;button&quot; id=&quot;click_send_error&quot; class=&quot;btnstyle2&quot; value=&quot;Gửi&quot;&gt;&#10;        &lt;/div&gt;&#10;        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;  &lt;div id=&quot;login_popup&quot; class=&quot;error-film&quot; style=&quot;display:none;&quot;&gt;&#10;    &lt;span&gt;Bạn phải &lt;a href=&quot;/user/login&quot;&gt;đăng nhập&lt;/a&gt; để sử dụng chức năng này&lt;/span&gt;&#10;  &lt;/div&gt;&#10;  &lt;script&gt;&#10;    function next_link() {&#10;      $elm = $(&quot;.list-episode a.current&quot;);&#10;      if ($elm.length) {&#10;        var next_link = $elm.next().attr('href');&#10;        if (typeof(next_link) != 'undefined') {&#10;          // Uncomment to auto next link&#10;          window.location.href = next_link;&#10;        }&#10;&#10;      }&#10;    }&#10;    function adBlockDetected() {&#10;      if (!$('.notifi-trailler').length) {&#10;        var $notifi = '&lt;div class=&quot;notifi-trailler&quot;&gt;Bạn vui lòng tắt plugin Adblock để ủng hộ Subteam và xem phim ổn định hơn bạn nhé! ^^&lt;/div&gt;';&#10;        $(&quot;#player-video .container&quot;).prepend($notifi);&#10;        setTimeout(function () {&#10;          $(&quot;.notifi-trailler&quot;).remove();&#10;        }, 90000)&#10;      }&#10;    }&#10;&#10;    $(document).ready(function () {&#10;      var showNotification = (isAndroidx() &amp;&amp; getChromeVersion() &gt; 42) || (!isMobile() &amp;&amp; /Chrome/.test(navigator.userAgent) &amp;&amp; (/Google Inc/.test(navigator.vendor) || /Coc Coc/.test(navigator.vendor)))&#10;      var isChrome = /Chrome/.test(navigator.userAgent) &amp;&amp; (/Google Inc/.test(navigator.vendor) || /Coc Coc/.test(navigator.vendor));&#10;      if (showNotification) $(&quot;#div-subscribe&quot;).show();&#10;      $(&quot;#link-subscribe&quot;).click(function () {&#10;        window.open('https://thongbao.phimbathu.com/subscribe.php?id=9097', '', &quot;width=760,height=480&quot;);&#10;        return false;&#10;      });&#10;      //Play video auto&#10;      $(&quot;#film_related&quot;).owlCarousel({&#10;        items: 5,&#10;        itemsTablet: [700, 3],&#10;        itemsMobile: [479, 2],&#10;        navigation: true, // Show next and prev buttons&#10;        slideSpeed: 300,&#10;        paginationSpeed: 400,&#10;        stopOnHover: true,&#10;        pagination: false,&#10;        navigationText: ['&lt;i class=&quot;fa fa-angle-left&quot;&gt;&lt;/i&gt;', '&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;']&#10;      });&#10;&#10;      //Loading video&#10;      $(&quot;#btn_lightbulb&quot;).click(function () {&#10;        var $this = $(this);&#10;        var $overlay = '&lt;div id=&quot;background_lamp&quot;&gt;&lt;/div&gt;';&#10;        if ($this.hasClass('off')) {&#10;          $this.removeClass('off');&#10;          $this.attr('title', 'Tắt đèn');&#10;          $(&quot;#background_lamp&quot;).remove();&#10;        } else {&#10;          $this.addClass('off');&#10;          $this.attr('title', 'Bật đèn');&#10;          $('body').append($overlay);&#10;        }&#10;      });&#10;      $(&quot;#btn_autonext&quot;).click(function () {&#10;        var $this = $(this);&#10;        if ($this.hasClass('active')) {&#10;          $this.removeClass('active');&#10;          $this.attr('title', 'Bật tự chuyển tập');&#10;        } else {&#10;          $this.addClass('active');&#10;          $this.attr('title', 'Tắt tự chuyển tập');&#10;        }&#10;      });&#10;&#10;      //Xử lý form đăng ký nhận mail&#10;      /*$(&quot;.show-form&quot;).click(function(){&#10;       $(&quot;#form_subscribe&quot;).show();&#10;       $(&quot;#sub_email&quot;).focus();&#10;       });*/&#10;&#10;      $('#btn_send').click(function () {&#10;        var email = $(&quot;#sub_email&quot;).val();&#10;        var name = $(&quot;#sub_name&quot;).val();&#10;        var captcha = $(&quot;#captcha&quot;).val();&#10;        if (!IsEmail(email)) {&#10;          alert(&quot;Định dạng email không chính xác!&quot;);&#10;          $(&quot;#sub_email&quot;).focus();&#10;        }&#10;        else if (name == '') {&#10;          alert(&quot;Bạn chưa nhập tên&quot;);&#10;          $(&quot;#sub_name&quot;).focus();&#10;        } else if (captcha == '') {&#10;          alert(&quot;Bạn chưa nhập mã bảo vệ&quot;);&#10;          $(&quot;#captcha&quot;).focus();&#10;        } else {&#10;          data = {'email': email, 'name': name, 'captcha': captcha, 'film_id': '9097'};&#10;          var succ = function (data) {&#10;            if (data.error == 0) {&#10;              $(&quot;#form_subscribe&quot;).hide();&#10;              $(&quot;.form-subscribe .message&quot;).show();&#10;&#10;            } else {&#10;              alert(data.message);&#10;              if (data.error == 2) {&#10;                $(&quot;.form-subscribe&quot;).hide();&#10;              }&#10;            }&#10;          }&#10;          handleAjax('/user/subcribe', 'POST', 'json', data, succ);&#10;        }&#10;&#10;      });&#10;      if (typeof fuckAdBlock === 'undefined') {&#10;        adBlockDetected();&#10;      } else {&#10;        fuckAdBlock.on(true, adBlockDetected);&#10;      }&#10;&#10;      function createCookie(name, value, second) {&#10;        var expires;&#10;        if (second) {&#10;          var date = new Date();&#10;          date.setTime(date.getTime() + (second * 1000));&#10;          expires = &quot;; expires=&quot; + date.toGMTString();&#10;        }&#10;        else {&#10;          expires = &quot;&quot;;&#10;        }&#10;        document.cookie = name + &quot;=&quot; + value + expires + &quot;; path=/&quot;;&#10;      }&#10;&#10;      function getCookie(c_name) {&#10;        if (document.cookie.length &gt; 0) {&#10;          c_start = document.cookie.indexOf(c_name + &quot;=&quot;);&#10;          if (c_start != -1) {&#10;            c_start = c_start + c_name.length + 1;&#10;            c_end = document.cookie.indexOf(&quot;;&quot;, c_start);&#10;            if (c_end == -1) {&#10;              c_end = document.cookie.length;&#10;            }&#10;            return unescape(document.cookie.substring(c_start, c_end));&#10;          }&#10;        }&#10;        return &quot;&quot;;&#10;      };&#10;    });&#10;  &lt;/script&gt;&#10;&#10;&#10;&lt;div id=&quot;iframeballoon&quot; style=&quot;position:fixed;left:-498px;bottom:0;z-index:9;&quot;&gt;&lt;div id=&quot;hide_balloon&quot; style=&quot;display: none;float:right;&quot;&gt;&lt;a href=&quot;javascript:hide_balloon()&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div id=&quot;balloon_content&quot; style=&quot;width:501px;height:31px;&quot;&gt;&#9;&lt;/div&gt;&lt;/div&gt;&#9;&lt;script &gt;$(document).ready(function(){setTimeout(function(){$(&quot;#balloon_content&quot;).html('&lt;iframe scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;/xem-phim/phim-toi-khong-phai-la-robot-im-not-a-robot-2017-9097_11?ads=%5B%22https%3A%2F%2Fadserver.adtech.de%2F%3Fadvideo%2F3.0%2F1686.1%2F6547755%2F0%2F0%2Fcc%3D2%3BvidAS%3Dpre_roll%3BvidRT%3DVAST%3BvidRTV%3D2.0%3Bcors%3Dyes%22%2C%22https%3A%2F%2Fadserver.adtech.de%2F%3Fadvideo%2F3.0%2F1686.1%2F6547807%2F0%2F0%2Fcc%3D2%3BvidAS%3Dpre_roll%3BvidRT%3DVAST%3BvidRTV%3D2.0%3Bcors%3Dyes%22%2C%5D&amp;midads=%5B%22https%3A%2F%2Fadserver.adtech.de%2F%3Fadvideo%2F3.0%2F1686.1%2F6547755%2F0%2F0%2Fcc%3D2%3BvidAS%3Dpre_roll%3BvidRT%3DVAST%3BvidRTV%3D2.0%3Bcors%3Dyes%22%2C%22https%3A%2F%2Fadserver.adtech.de%2F%3Fadvideo%2F3.0%2F1686.1%2F6547807%2F0%2F0%2Fcc%3D2%3BvidAS%3Dpre_roll%3BvidRT%3DVAST%3BvidRTV%3D2.0%3Bcors%3Dyes%22%2C%5D&quot;&gt;&lt;/iframe&gt;'); setTimeout(function(){$(&quot;#hide_balloon&quot;).show();}, 50000);setTimeout(function(){$(&quot;#iframeballoon&quot;).remove();}, 60000);},50000)});function hide_balloon(){$(&quot;#iframeballoon&quot;).remove();}&lt;/script&gt;&lt;/div&gt;&lt;!-- content --&gt;&#10;   &#10;            &lt;a href=&quot;/dong-gop-y-kien.html&quot; class=&quot;btn-contact&quot; title=&quot;Gửi ý kiến&quot;&gt;&lt;i class=&quot;fa fa-envelope-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&#10;&#10;&#10;&lt;div id=&quot;footer&quot;&gt;&#10;   &lt;div class=&quot;container&quot;&gt;&#10;      &lt;div class=&quot;desc&quot;&gt;&#10;         &lt;p&gt;&#10;            &lt;a href=&quot;/&quot;&gt;Xem phim&lt;/a&gt; online,  xem phim VietSub, phim hoat hinh, phim hanh dong, phim moi 2015&lt;br /&gt;&#10;            Phim Bất Hủ luôn cập nhật những bộ phim mới nhất với nhiều thể loại đa dạng:&lt;br /&gt;&#10;            - Phim hanh dong My 2015, phim trung quoc, phim vo thuat, phim chieu rap, phim tam&lt;br /&gt; ly, tinh cam, phim hoat hinh hay nhat,  phim hai 2015&#10;            - Phim han quoc, phim chau tinh tri, phim thanh long, phim kinh di, phim xa hoi den, phim ly lien kiet, phim vo thuat thai lan, phim vien tuong, phim hoat hinh naruto, phim vua hai tac, xem phim hay 2015&#10;         &lt;/p&gt;&#10;         &lt;p class=&quot;sitemap&quot;&gt;&lt;a href=&quot;https://phimbathu.com/site/rss&quot; class=&quot;style2&quot; title=&quot;Rss Feed&quot;&gt;Rss&lt;/a&gt; - &lt;a href=&quot;https://phimbathu.com/sitemap_new.xml&quot; title=&quot;Sitemap&quot; class=&quot;style2&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;&#10;      &lt;/div&gt;&#10;      &lt;div class=&quot;info&quot;&gt;&#10;         &lt;div class=&quot;column&quot;&gt;&#10;            &lt;div class=&quot;heading&quot;&gt;Liên hệ&lt;/div&gt;&#10;            &lt;ul&gt;&#10;               &lt;li&gt;&lt;a href=&quot;/lien-he-quang-cao.html&quot;&gt;Liên hệ quảng cáo&lt;/a&gt;&lt;/li&gt;&#10;               &lt;li&gt;&lt;a href=&quot;/hop-tac-noi-dung.html&quot;&gt;Hợp tác nội dung&lt;/a&gt;&lt;/li&gt;&#10;            &lt;/ul&gt;&#10;         &lt;/div&gt;&#10;         &lt;div class=&quot;column&quot;&gt;&#10;            &lt;div class=&quot;heading&quot;&gt;Điều khoản sử dụng&lt;/div&gt;&#10;            &lt;ul&gt;&#10;               &lt;li&gt;&lt;a href=&quot;/dieu-khoan-chung.html&quot;&gt;Điều khoản chung&lt;/a&gt;&lt;/li&gt;&#10;               &lt;li&gt;&lt;a href=&quot;/ban-quyen-noi-dung.html&quot;&gt;Bản quyền và trách nhiệm nội dung&lt;/a&gt;&lt;/li&gt;&#10;            &lt;/ul&gt;&#10;         &lt;/div&gt;&#10;      &lt;/div&gt;&#10;&#10;   &lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&#10;&lt;script&gt;&#10;  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){&#10;  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),&#10;  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)&#10;  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');&#10;&#10;  ga('create', 'UA-89702778-7', 'auto');&#10;  ga('send', 'pageview');&#10;&#10;&lt;/script&gt;&#10;&#10;&lt;!-- Begin comScore Tag --&gt;&#10;&lt;script&gt;&#10;  var comscore = comscore || [];&#10;  comscore.push({ c1: &quot;2&quot;, c2: &quot;20514420&quot; });&#10;  (function() {&#10;    var s = document.createElement(&quot;script&quot;), el = document.getElementsByTagName(&quot;script&quot;)[0]; s.async = true;&#10;    s.src = (document.location.protocol == &quot;https:&quot; ? &quot;https://sb&quot; : &quot;http://b&quot;) + &quot;.scorecardresearch.com/beacon.js&quot;;&#10;    el.parentNode.insertBefore(s, el);&#10;  })();&#10;&lt;/script&gt;&#10;&lt;noscript&gt;&#10;  &lt;img src=&quot;http://b.scorecardresearch.com/p?c1=2&amp;c2=20514420&amp;cv=2.0&amp;cj=1&quot; /&gt;&#10;&lt;/noscript&gt;&#10;&lt;!-- End comScore Tag --&gt;&#10;&lt;!-- Plugin facebook --&gt;&#10;&lt;script async&gt;&#10;  window.fbAsyncInit = function() {&#10;    FB.init({&#10;      appId      : '997409100283248',&#10;      xfbml      : true,&#10;      version    : 'v2.7'&#10;    });&#10;  };&#10;&#10;  (function(d, s, id){&#10;     var js, fjs = d.getElementsByTagName(s)[0];&#10;     if (d.getElementById(id)) {return;}&#10;     js = d.createElement(s); js.id = id;&#10;     js.src = &quot;//connect.facebook.net/en_US/sdk.js&quot;;&#10;     fjs.parentNode.insertBefore(js, fjs);&#10;   }(document, 'script', 'facebook-jssdk'));&#10;&lt;/script&gt;&#10;&#10;&#10;   &#10;      &lt;/div&gt;&#10;      &lt;div class=&quot;float-ads float-ads-left&quot; style=&quot;position:fixed;top:72px;left:0&quot;&gt;&lt;a href=&quot;https://goo.gl/37UbsN&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;https://media.phimbathu.com/qc/120x600.gif&quot; border=&quot;0&quot; style=&quot;position: fixed; top: 30px&quot; /&gt;&lt;/a&gt; &lt;/div&gt;&lt;div class=&quot;float-ads float-ads-right&quot; style=&quot;position:fixed;top:72px;right:0&quot;&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;//media1.admicro.vn/ads_codes/ads_box_26543.ads&quot;&gt;&lt;/script&gt;&lt;/div&gt;   &lt;/body&gt;&#10;   &lt;div style=&quot;position:fixed;left:0;bottom:0;z-index:10&quot;&gt;&lt;script defer src=&quot;//d5.hadarone.com/ads-sync.js?placement=1522&quot;&gt;&lt;/script&gt;&#10;&#10;&lt;!-- Place this code ONLY ONCE into the HEAD element of the web page --&gt;&#10;&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdn.innity.net/admanager.js&quot;&gt;&lt;/script&gt;&#10;&#10;&lt;script type=&quot;text/javascript&quot;&gt;&#10;new innity_adZone(&quot;84f74ce4511e0c9531af1182fb636f0f&quot;, &quot;58011&quot;, {&quot;origin&quot;: &quot;VN&quot;});&#10;&lt;/script&gt;&#10;&#10;&lt;/div&gt;&lt;div style=&quot;position:fixed;right:0;bottom:0;z-index:10&quot;&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;//media1.admicro.vn/ads_codes/ads_box_26924.ads&quot;&gt;&lt;/script&gt;&lt;/div&gt;&lt;/html&gt;&#10;" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GetData.getData">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="JsoupGetData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haku.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haku.service.JsoupGetData" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GetLinkPhimBH" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="GetData.getData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="GetLinkPhimBH" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetData" />
+      <option name="METHOD_NAME" value="getData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GetData.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="GetLinkPhimBH" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetData" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GetData.testRegex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="GetLinkPhimBH" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetData" />
+      <option name="METHOD_NAME" value="testRegex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haku.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="GetLinkPhimBH" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JsoupGetData" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GetData.getData" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GetData.testRegex" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.GetData.test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GetData.getData" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GetData.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GetData.testRegex" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JsoupGetData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7481257d-96df-4905-affa-9397d8036588" name="Default" comment="" />
+      <created>1515828318192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515828318192</updated>
+      <workItem from="1515828320682" duration="15905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 40m 16s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 45m 08s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 45m 23s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 46m 38s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 46m 49s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 47m 06s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 49m 39s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 50m 51s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 51m 46s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2018.01.13 at 18h 55m 30s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.38405037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="23" width="1920" height="1027" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2339979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/config/ViewConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="112" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="621" column="19" lean-forward="false" selection-start-line="621" selection-start-column="19" selection-end-line="621" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/security/Key.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="101" column="17" lean-forward="false" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="2065" column="18" lean-forward="false" selection-start-line="2065" selection-start-column="18" selection-end-line="2065" selection-end-column="18" />
+          <folding>
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/jce.jar!/javax/crypto/spec/SecretKeySpec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/ext/sunjce_provider.jar!/com/sun/crypto/provider/AESCipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="538" column="0" lean-forward="false" selection-start-line="538" selection-start-column="0" selection-end-line="538" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/test/java/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/resources/templates/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GetLinkPhimBH/src/main/java/com/haku/service/JsoupGetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#400#1" expanded="true" />
+            <element signature="e#644#652#0" expanded="true" />
+            <element signature="e#1103#1111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GetLinkPhimBH</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
