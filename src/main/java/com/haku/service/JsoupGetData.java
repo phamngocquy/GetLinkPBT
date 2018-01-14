@@ -17,20 +17,43 @@ public class JsoupGetData {
 
     @Value("${user.agent}")
     private String USER_AGENT;
-    private String KEY = "phimbathu.com" + "4590481877" + "96480";
-    private static final String ALGORITHM = "AES";
+
+    @Value("${key.aes}")
+    private String AESKEY;
 
     public List<String> getServer(String url) {
-        List<String> servers = new ArrayList<String>();
+        List<String> servers = new ArrayList<>();
         try {
             Document document = Jsoup.connect(url).userAgent("Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/41.0.2228.0 Safari/537.36").timeout(60000).get();
-            servers = EpID(document.toString());
+            Pattern pattern;
+            Matcher matcher;
+            if (url.endsWith(".html")) {
+                pattern = Pattern.compile("-(\\d+)_e(\\d+).html");
+                matcher = pattern.matcher(url);
+                if (matcher.find()) {
+                    AESKEY = AESKEY + matcher.group(matcher.groupCount() - 1);
+                    servers.add(AESKEY);
+                    servers.addAll(EpID(document.toString()));
+                }
+
+            } else {
+                pattern = Pattern.compile("-(\\d+)$");
+                matcher = pattern.matcher(url);
+                if (matcher.find()) {
+                    AESKEY = AESKEY + matcher.group(matcher.groupCount());
+                    servers.add(AESKEY);
+                    servers.addAll(EpID(document.toString()));
+                }
+
+            }
+
 
         } catch (IOException e) {
             e.printStackTrace();
         }
         return servers;
     }
+
     private List<String> EpID(String html) {
         List<String> listEpID = new ArrayList<String>();
         Matcher matcher;

@@ -26,7 +26,7 @@ public class GetData {
     public void test()
     {
 
-        String stringToSearch = "https://phimbathu.com/xem-phim/ky-si-ao-den-black-knight-2017-tap-2-9096";
+        String stringToSearch = "https://phimbathu.com/xem-phim/bay-vien-ngoc-rong-sieu-cap-dragon-ball-super-2015-tap-123-1601_e98457.html";
         Pattern p;
         if (stringToSearch.endsWith(".html")) {
             p = Pattern.compile("-(\\d+)_e(\\d+).html");
@@ -40,7 +40,7 @@ public class GetData {
         if (m.find())
         {
             System.out.println(m.groupCount());
-            System.out.println(m.group(m.groupCount()));
+            System.out.println(m.group(m.groupCount()-1));
         }
     }
 }

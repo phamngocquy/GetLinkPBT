@@ -1,10 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8"/>
     <title>Title</title>
 </head>
 <body>
+<button type="button" onclick="make_link()">GETLINK</button>
 
+
+<script src="../../static/plugin/jquery-3.2.1.min.js" th:src="@{/plugin/jquery-3.2.1.min.js}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+<script src="../../static/js/api.js" th:src="@{/js/api.js}"></script>
+<script language="javascript" type="text/javascript">
+    function make_link() {
+        PARSER_API.make_token("https://phimbathu.com/xem-phim/phim-cuoc-song-thuong-luu-my-golden-life-2017-8389");
+    }
+</script>
 </body>
+
 </html>

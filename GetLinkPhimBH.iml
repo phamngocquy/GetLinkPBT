@@ -15,8 +15,8 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../GetLinkPhimBH/target/classes" />
-    <output-test url="file://$MODULE_DIR$/../GetLinkPhimBH/target/test-classes" />
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$/../GetLinkPhimBH">
       <sourceFolder url="file://$MODULE_DIR$/../GetLinkPhimBH/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../GetLinkPhimBH/src/main/java" isTestSource="false" />
@@ -73,5 +73,6 @@
     <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-cipher:1.1" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1" level="project" />
     <orderEntry type="library" name="Maven: classworlds:classworlds:1.1-alpha-2" level="project" />
+    <orderEntry type="library" name="aes" level="application" />
   </component>
 </module>
